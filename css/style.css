@@ -1,0 +1,53 @@
+header {
+    width: 30rem;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h2 {
+    background-color: yellow;
+}
+
+main {
+    background-color: gainsboro;
+    border-radius: 5px;
+    margin: auto;
+    padding: 10%;
+}
+
+.imgh3 {
+    text-align: center;
+}
+
+.life {
+    width: 70%;
+    margin: auto;
+
+}
+
+section {display: block;}
+
+div{
+    background-color: rgb(196, 203, 214);
+    width: 100;
+    margin: auto;
+    border-radius: 5px;
+
+}
+
+body {
+    display: block;
+    margin: 50px;
+    min-height: 100vh;
+}
+
+footer { 
+    width: 100%;
+    margin: 20px auto;
+    background-color: yellow;
+    padding: 1px 0;
+    text-align: center;
+    font-size: large;
+    border-radius: 5px;
+}
